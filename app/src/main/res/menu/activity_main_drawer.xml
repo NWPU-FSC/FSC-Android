@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_news"
+            android:title="新闻公告" />
+        <item
+            android:id="@+id/nav_message"
+            android:title="交流互动" />
+        <item
+            android:id="@+id/nav_award"
+            android:title="学生奖罚" />
+        <item
+            android:id="@+id/nav_student"
+            android:title="学生管理" />
+        <item
+            android:id="@+id/nav_homework"
+            android:title="学生作业" />
+        <item
+            android:id="@+id/nav_classact"
+            android:title="学生活动" />
+        <item
+            android:id="@+id/nav_exam"
+            android:title="学生考试" />
+        <item
+            android:id="@+id/nav_signin"
+            android:title="学生考勤" />
+        <item
+            android:id="@+id/nav_remark"
+            android:title="学生评价" />
+        <item
+            android:id="@+id/nav_par"
+            android:title="家长管理" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:title="服务设置" />
+
+    </group>
+
+    <item android:title="用户管理">
+        <menu>
+
+            <item
+                android:id="@+id/nav_logout"
+                android:title="退出登录" />
+        </menu>
+    </item>
+
+</menu>

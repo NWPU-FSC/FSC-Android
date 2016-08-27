@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">家校通</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="load_fail">加载失败了！</string>
+    <string name="no_more">没有更多了</string>
+
+    <!-- Strings related to login -->
+    <string name="edit_signin_username_hint">用户名</string>
+    <string name="edit_signin_password_hint">密码</string>
+    <string name="edit_signup_username_hint">用户名</string>
+    <string name="edit_signup_realname_hint">真实姓名</string>
+    <string name="edit_signup_password_hint">密码</string>
+    <string name="edit_signup_doespassword_hint">确认密码</string>
+    <string name="signin">登陆</string>
+    <string name="signup">注册</string>
+    <string name="text_findback">找回密码</string>
+    <string name="app_news">新闻公告</string>
+    <string name="app_communicate">交流互动</string>
+    <string name="ensure">确认</string>
+    <string name="text_addstu_name">学生姓名</string>
+    <string name="text_addstu_id">学生学号</string>
+    <string name="text_addstu_relation">亲缘关系</string>
+    <string name="app_award">奖罚</string>
+    <string name="app_homework">学生作业</string>
+    <string name="button_parent_detial_pass">通过</string>
+    <string name="button_parent_detial_notpass">未通过</string>
+    <string name="button_parent_detial_abolish">取消</string>
+    <string name="text_parent_detial_title">详细信息</string>
+    <string name="text_parent_name">家长姓名</string>
+    <string name="confirm">确定</string>
+    <string name="add_relation_student">添加关联学生</string>
+    <string name="edit_add_student_relation">与学生关系</string>
+    <string name="edit_add_student_name">学生姓名</string>
+    <string name="edit_add_student_id">学生学号</string>
+    <string name="text_setting_title">修改服务器地址</string>
+    <string name="edit_setting_address">服务器地址</string>
+    <string name="edit_setting_post">端口号</string>
+    <string name="send">发送</string>
+    <string name="cancel">取消</string>
+    <string name="type">用户身份</string>
+    <string name="seder">发送</string>
+
+</resources>

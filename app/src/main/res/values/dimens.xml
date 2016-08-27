@@ -1,0 +1,30 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_x_small">2dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="spacing_large">20dp</dimen>
+    <dimen name="spacing_medium_large">13dp</dimen>
+    <dimen name="spacing_medium">10dp</dimen>
+    <dimen name="spacing_small">4dp</dimen>
+
+    <dimen name="text_news_padding">5dp</dimen>
+    <dimen name="text_news_datetime">10sp</dimen>
+    <dimen name="text_news_title">12sp</dimen>
+    <dimen name="text_news_bottom_textsize">14sp</dimen>
+    <dimen name="padding_news_detial">10dp</dimen>
+    <dimen name="text_mark_padding">10dp</dimen>
+    <dimen name="spinner_signin_type_padding">10dp</dimen>
+    <dimen name="text_addstu_relation_size">18sp</dimen>
+    <dimen name="text_detial_title_size">16sp</dimen>
+    <dimen name="text_detail_content_size">14sp</dimen>
+    <dimen name="text_detail_content_padding">10dp</dimen>
+</resources>

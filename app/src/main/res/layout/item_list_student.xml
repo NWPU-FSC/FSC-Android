@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rootView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/margin_small"
+    app:cardCornerRadius="0dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@drawable/spacer_medium"
+        android:showDividers="middle">
+
+        <TextView
+            android:id="@+id/text_student_choosable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:padding="@dimen/text_mark_padding"
+            android:text="可选"
+            android:textColor="@color/text_news_type"
+            android:textSize="@dimen/text_news_bottom_textsize"
+            android:textStyle="bold"
+            android:maxLines="1" />
+
+        <ImageView
+            android:id="@+id/image_student_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@android:drawable/btn_star_big_off" />
+
+        <TextView
+            android:id="@+id/text_student_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:padding="@dimen/text_news_padding"
+            android:text="231442445566"
+            android:textSize="@dimen/text_news_bottom_textsize"
+            android:maxLines="1" />
+        <ImageView
+            android:id="@+id/image_student_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@android:drawable/btn_star_big_off" />
+
+        <TextView
+            android:id="@+id/text_student_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:padding="@dimen/text_news_padding"
+            android:text="张三"
+            android:textSize="@dimen/text_news_bottom_textsize"
+            android:maxLines="1" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>
